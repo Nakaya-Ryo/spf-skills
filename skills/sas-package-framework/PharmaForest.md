@@ -21,7 +21,9 @@ The navigators are built on OpenAI's GPTs. You need to sign up to ChatGPT (at le
 - [Dr. Apple](https://chatgpt.com/g/g-6996134ec0848191958c0dd931333f8c-dr-apple)  
   Support navigator; provides detailed guidance for #16 - #30 packages. 
 - [Rio](https://chatgpt.com/g/g-69961574d1d48191bf402340734acf25-rio)  
-  Support navigator; provides detailed guidance for package #31 and newer.
+  Support navigator; provides detailed guidance for #31- #45 packages.
+- [SASUKE](https://chatgpt.com/g/g-69bda538e5c88191b00e804a5984a03a-sasuke)  
+  Support navigator; provides detailed guidance for package #46 and newer.
 - [SAS Package Lady (Oba-chan)](https://chatgpt.com/g/g-6996168447ec8191a238046fbba86451-sas-package-lady-oba-chan)  
   Dedicated assistant for creating and managing SAS packages.
 
