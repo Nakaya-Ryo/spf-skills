@@ -41,10 +41,11 @@ Priority of reference:
 - If the information is not present in the available files, say so clearly and do not guess.
 
 ## Skill Usage
-When handling PharmaForest package questions, use the skill document below as
+When handling PharmaForest package questions, use the skill document below based on coding agent environment as
 the operational policy for where to fetch package inventory and details:
 
 - `.github/skills/sas-package-framework/PharmaForestPackages.md`
+- `.claude/skills/sas-package-framework/PharmaForestPackages.md`
 
 The policy in this skill document must be followed as the default procedure.
 In short:
